@@ -1,0 +1,28 @@
+/Users/fahmihafiz/Desktop/MyProject/bin/Debug/net7.0/MyProject
+/Users/fahmihafiz/Desktop/MyProject/bin/Debug/net7.0/MyProject.deps.json
+/Users/fahmihafiz/Desktop/MyProject/bin/Debug/net7.0/MyProject.runtimeconfig.json
+/Users/fahmihafiz/Desktop/MyProject/bin/Debug/net7.0/MyProject.dll
+/Users/fahmihafiz/Desktop/MyProject/bin/Debug/net7.0/MyProject.pdb
+/Users/fahmihafiz/Desktop/MyProject/obj/Debug/net7.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fahmihafiz/Desktop/MyProject/obj/Debug/net7.0/MyProject.AssemblyInfoInputs.cache
+/Users/fahmihafiz/Desktop/MyProject/obj/Debug/net7.0/MyProject.AssemblyInfo.cs
+/Users/fahmihafiz/Desktop/MyProject/obj/Debug/net7.0/MyProject.csproj.CoreCompileInputs.cache
+/Users/fahmihafiz/Desktop/MyProject/obj/Debug/net7.0/MyProject.dll
+/Users/fahmihafiz/Desktop/MyProject/obj/Debug/net7.0/refint/MyProject.dll
+/Users/fahmihafiz/Desktop/MyProject/obj/Debug/net7.0/MyProject.pdb
+/Users/fahmihafiz/Desktop/MyProject/obj/Debug/net7.0/MyProject.genruntimeconfig.cache
+/Users/fahmihafiz/Desktop/MyProject/obj/Debug/net7.0/ref/MyProject.dll
+/Users/fahmihafiz/Desktop/untitled folder/C#/Question_3/bin/Debug/net7.0/MyProject
+/Users/fahmihafiz/Desktop/untitled folder/C#/Question_3/bin/Debug/net7.0/MyProject.deps.json
+/Users/fahmihafiz/Desktop/untitled folder/C#/Question_3/bin/Debug/net7.0/MyProject.runtimeconfig.json
+/Users/fahmihafiz/Desktop/untitled folder/C#/Question_3/bin/Debug/net7.0/MyProject.dll
+/Users/fahmihafiz/Desktop/untitled folder/C#/Question_3/bin/Debug/net7.0/MyProject.pdb
+/Users/fahmihafiz/Desktop/untitled folder/C#/Question_3/obj/Debug/net7.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fahmihafiz/Desktop/untitled folder/C#/Question_3/obj/Debug/net7.0/MyProject.AssemblyInfoInputs.cache
+/Users/fahmihafiz/Desktop/untitled folder/C#/Question_3/obj/Debug/net7.0/MyProject.AssemblyInfo.cs
+/Users/fahmihafiz/Desktop/untitled folder/C#/Question_3/obj/Debug/net7.0/MyProject.csproj.CoreCompileInputs.cache
+/Users/fahmihafiz/Desktop/untitled folder/C#/Question_3/obj/Debug/net7.0/MyProject.dll
+/Users/fahmihafiz/Desktop/untitled folder/C#/Question_3/obj/Debug/net7.0/refint/MyProject.dll
+/Users/fahmihafiz/Desktop/untitled folder/C#/Question_3/obj/Debug/net7.0/MyProject.pdb
+/Users/fahmihafiz/Desktop/untitled folder/C#/Question_3/obj/Debug/net7.0/MyProject.genruntimeconfig.cache
+/Users/fahmihafiz/Desktop/untitled folder/C#/Question_3/obj/Debug/net7.0/ref/MyProject.dll
